@@ -16,6 +16,9 @@
 2.  Express
 3.  Mongodb/Mongoose
 
+## Postman API Docs
+https://documenter.getpostman.com/view/12618188/TzXtJLCv
+
 ## Find User Friend's by Level (Approach)
 
 1. First Get User All Commented blog ObjectId
